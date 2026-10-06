@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Caches & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testing & Tools
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
